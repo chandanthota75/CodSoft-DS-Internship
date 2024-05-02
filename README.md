@@ -13,7 +13,7 @@ The Iris Flower Classification project involved building a machine learning mode
 - Explored sepal and petal measurements as distinguishing features.
 
 #### GitHub Repository
-Find the code and data related to this project in the [Iris Flower Classification GitHub Repository](link_to_your_repository).
+Find the code and data related to this project in the [Iris Flower Classification GitHub Repository](https://github.com/chandanthota75/CodSoft-DS-Internship/tree/main/Task%201%3A%20Iris%20Flower%20Classification).
 
 ## Project 2: Sales Prediction
 
