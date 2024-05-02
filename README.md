@@ -26,7 +26,7 @@ The Sales Prediction project aimed to forecast future product sales using machin
 - Optimized advertising strategies based on predictive insights.
 
 #### GitHub Repository
-Find the code and data related to this project in the [Sales Prediction GitHub Repository](link_to_your_repository).
+Find the code and data related to this project in the [Sales Prediction GitHub Repository](https://github.com/chandanthota75/CodSoft-DS-Internship/tree/main/Task%202%3A%20Sales%20Prediction).
 
 ## Project 3: Movie Rating Prediction
 
