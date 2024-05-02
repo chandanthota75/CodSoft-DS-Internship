@@ -39,7 +39,7 @@ The Movie Rating Prediction project delved into regression techniques to predict
 - Explored factors influencing movie ratings through data analysis.
 
 #### GitHub Repository
-Find the code and data related to this project in the [Movie Rating Prediction GitHub Repository](link_to_your_repository).
+Find the code and data related to this project in the [Movie Rating Prediction GitHub Repository](https://github.com/chandanthota75/CodSoft-DS-Internship/tree/main/Task%203%3A%20Movie%20Rating%20Prediction).
 
 ## Conclusion
 My journey with CodSoft has been exhilarating, filled with challenges and discoveries in the realm of data science and machine learning. Each project has expanded my skills and fueled my passion for innovation. I look forward to continuing this journey, embracing new opportunities, and making meaningful contributions in the field.
